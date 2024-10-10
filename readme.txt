@@ -1,2 +1,2 @@
 bonjour je suis le readme... Je crois ?
-du coup mtn je suis dans git 
+du coup mtn je suis dans github 
